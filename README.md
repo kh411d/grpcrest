@@ -1,7 +1,8 @@
 # grpcrest
-GRPC and Rest testing
-note: Install all requirement before proceed, "go get"
-see grpc-go docs https://github.com/grpc/grpc-go to install grpc
+GRPC and Rest testing 
+
+> note: Install all requirement before proceed, "go get"
+> see grpc-go docs https://github.com/grpc/grpc-go to install grpc
 
 This is a test case for using GRPC as a great alternative for REST
 
