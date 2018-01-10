@@ -14,6 +14,10 @@ BenchmarkGRPC-4   	 1000000	      1105 ns/op
 BenchmarkREST-4   	    2000	  15518352 ns/op
 ```
 
+> The average run time of the function under test for the final value of b.N iterations. 
+
+> In this case, the loop ran 10000000 times, my laptop can execute  GRPC request in 1105 nanoseconds per loop
+
 ### Running a standalone server grpcrest
 ```
 MacBook-Air-3:grpcrest khalid$ go build
